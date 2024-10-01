@@ -1,0 +1,10 @@
+C:\Users\faruk\source\repos\Excel_test\Excel_test\bin\Debug\Excel_test.exe.config
+C:\Users\faruk\source\repos\Excel_test\Excel_test\bin\Debug\Excel_test.exe
+C:\Users\faruk\source\repos\Excel_test\Excel_test\bin\Debug\Excel_test.pdb
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.csproj.AssemblyReference.cache
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.Form1.resources
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.Properties.Resources.resources
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.csproj.GenerateResource.cache
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.exe
+C:\Users\faruk\source\repos\Excel_test\Excel_test\obj\Debug\Excel_test.pdb
